@@ -23,10 +23,12 @@ Due to a bug in dwm which can not handle some emojis there is a temporary soluti
 
 You can read more about this issue in [here](https://groups.google.com/forum/#!topic/wmii/7bncCahYIww).
 
+Watch a brief [screencast](https://open.lbry.com/@mzeinali:c/dwm:7)
+
 Example screenshot:
 
 ![https://github.com/mhdzli/dwm/blob/master/patches/dwm-01.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-01.png)
 ![https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png)
 ![https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png)
 
-Watch a brief [screencast](https://open.lbry.com/@mzeinali:c/dwm:7) 
+ 
