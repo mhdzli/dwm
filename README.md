@@ -29,4 +29,4 @@ Example screenshot:
 ![https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png)
 ![https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png)
 
-![https://lbry.tv/$/embed/dwm/7e744ee3955b4b1c60fed8ee70ae8252222c126d](https://lbry.tv/$/embed/dwm/7e744ee3955b4b1c60fed8ee70ae8252222c126d)
+Watch a brief [screencast](https://open.lbry.com/@mzeinali:c/dwm:7) 
