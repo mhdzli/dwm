@@ -1,7 +1,7 @@
 # mz-dwm
 ## My fork of dwm
 
-Included [patches](https://github.com/mhdzli/dwm/tree/master/patches):
+Included [patches](../../tree/master/patches):
 
 + [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
 + [alpha](https://dwm.suckless.org/patches/alpha/)
@@ -24,7 +24,7 @@ You can find them in `config.h` but they are mostly similar to may `swaywm` bind
 
 Due to a feature in dwm which can not handle color emojis there was a temporary solution (an unofficial patch that I used to add to dwm.c):
 
-+ [ignoreXfterrorswhendrawingtext](https://github.com/mhdzli/dwm/blob/master/patches/ignoreXfterrorswhendrawingtext.diff)
++ [ignoreXfterrorswhendrawingtext](../master/patches/ignoreXfterrorswhendrawingtext.diff)
 
 You can read more about this issue in [here](https://groups.google.com/forum/#!topic/wmii/7bncCahYIww).
 
@@ -36,8 +36,8 @@ Watch a brief [screencast](https://open.lbry.com/@mzeinali:c/dwm:7)
 
 Example screenshot:
 
-![https://github.com/mhdzli/dwm/blob/master/patches/dwm-01.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-01.png)
-![https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-02.png)
-![https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png](https://github.com/mhdzli/dwm/blob/master/patches/dwm-03.png)
+![../master/patches/dwm-01.png](../master/patches/dwm-01.png)
+![../master/patches/dwm-02.png](../master/patches/dwm-02.png)
+![../master/patches/dwm-03.png](../master/patches/dwm-03.png)
 
  
