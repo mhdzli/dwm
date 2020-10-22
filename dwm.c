@@ -1105,9 +1105,11 @@ fake_signal(void)
 
 			// Check if a signal was found, and if so handle it
 			for (i = 0; i < LENGTH(signals); i++)
-				if (strncmp(str_sig, signals[i].sig, len_str_sig) == 0 && signals[i].func)
+				if (strcmp(str_sig, signals[i].sig) == 0 && signals[i].func)
+				{
 					signals[i].func(&(arg));
-
+					break;
+				}
 			// A fake signal was sent
 			return 1;
 		}
